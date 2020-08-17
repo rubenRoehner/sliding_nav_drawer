@@ -1,3 +1,5 @@
 # sliding_nav_drawer
 
-A new Flutter project.
+A sliding navigation drawer for your Flutter Project.
+
+
